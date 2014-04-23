@@ -178,4 +178,3 @@ while i < days:
 # print(data[2])
 # print(data)
 print(NL[0], NM[0][NL[1]], ND[NL[2]])
-
